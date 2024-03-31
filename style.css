@@ -76,4 +76,7 @@ button:active{
     main{
         width: 77vw;
     }
+    .search{
+        width: 50vw;
+    }
 }
